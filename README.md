@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 📫 How to reach me **yashkataria1993@gmail.com**
+- 📫 Reach out to me at **yashkataria1993@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
