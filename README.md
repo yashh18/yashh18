@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Kataria</h1>
-<h3 align="center">An IT Sophomore and ML enthusiast who is trying to explore the realms of Open Source. Skilled in C, C++ and Python</h3>
+<h3 align="center">An IT Undergrad and ML enthusiast who is trying to explore the realms of Open Source. Skilled in C, C++ and Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashh18&label=Profile%20views&color=0e75b6&style=flat" alt="yashh18" /> </p>
 
